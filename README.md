@@ -7,4 +7,4 @@
 
 # Як запустити
 
-Practice6/main.py , змінити текст для аналізу треба замінити його в Practice6/text_to_analyze.txt
+Practice6/main.py, змінити текст для аналізу, заміна відбувається в: Practice6/text_to_analyze.txt
